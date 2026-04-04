@@ -49,38 +49,7 @@ When I'm not writing code, I'm exploring open source projects, learning about di
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
 
-## Current Projects
-
-### 🔧 [Project Name One]
-> A brief description of what this project does and the problem it solves. Built with Rust and TypeScript.
-
-**Status:** In Progress · [View Repo](#)
-
----
-
-### 🌐 [Project Name Two]
-> A brief description of what this project does and the problem it solves. Built with Python and React.
-
-**Status:** Active · [View Repo](#)
-
----
-
-### ⛓️ [Project Name Three]
-> A smart contract or on-chain project built using the Move language on [Aptos/Sui].
-
-**Status:** Experimental · [View Repo](#)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solodevstack&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
 
 <p align="center">
   <em>Open to collaborating on interesting projects. Feel free to reach out!</em>
