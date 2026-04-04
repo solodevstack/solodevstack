@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com">Email</a> ·
-  <a href="https://linkedin.com/in/yourhandle">LinkedIn</a> ·
-  <a href="https://twitter.com/yourhandle">Twitter</a>
+  <a href="mailto:basboyzamaniey@gmail.com">Email</a> ·
+  <a href="www.linkedin.com/in/adamu-abbas-017454168">LinkedIn</a> ·
+  <a href="https://x.com/solodevstack">Twitter</a>
 </p>
 
 ---
