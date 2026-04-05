@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey there 👋 I'm Solodev</h1>
 
 <p align="center">
@@ -8,14 +7,15 @@
 <p align="center">
   <a href="mailto:basboyzamaniey@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/adamu-abbas-017454168">LinkedIn</a> ·
-  <a href="https://x.com/solodevstack">Twitter</a>
+  <a href="https://x.com/solodevstack">Twitter</a>  ·
+  <a href="https://x.com/solodev-navy.vercel.app">Website</a>
 </p>
 
 ---
 
 ## About Me
 
-I'm a full stack developer with a passion for writing clean, performant, and maintainable software. I enjoy working across the entire stack  from crafting intuitive user interfaces to architecting backend systems that scale. Lately I've been especially excited about systems programming with Rust and blockchain development using the Move language.
+I'm a full stack developer with a passion for writing clean, performant, and maintainable software. I enjoy working across the entire stack  from crafting intuitive user interfaces to architecting backend systems that scale. Lately I've been excited about systems programming with Rust and blockchain development using the Move language.
 
 When I'm not writing code, I'm exploring open source projects, learning about distributed systems, or mentoring other developers.
 
