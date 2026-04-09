@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a full stack developer with a passion for writing clean, performant, and maintainable software. I enjoy working across the entire stack  from crafting intuitive user interfaces to architecting backend systems that scale. Lately I've been excited about systems programming with Rust and blockchain development using the Move language.
+I'm a full stack developer with a passion for writing clean, performant, and maintainable software. I enjoy working across the entire stack  from crafting intuitive user interfaces to architecting backend systems that scale. Lately I've been excited about systems programming with Rust🦀 and blockchain development using the Move language.
 
 When I'm not writing code, I'm exploring open source projects, learning about distributed systems, or mentoring other developers.
 
@@ -25,7 +25,7 @@ When I'm not writing code, I'm exploring open source projects, learning about di
 
 **Languages**
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Rust🦀](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
