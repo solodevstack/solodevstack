@@ -7,7 +7,6 @@
 <p align="center">
   <a href="mailto:basboyzamaniey@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/adamu-abbas-017454168">LinkedIn</a> ·
-  <a href="https://x.com/solodevstack">Twitter</a>  ·
   <a href="https://solodev-navy.vercel.app">Website</a>
 </p>
 
